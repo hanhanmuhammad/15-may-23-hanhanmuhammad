@@ -53,7 +53,7 @@ const resetKeliling = () => {
     const divPenyelesaianKeliling = document.getElementById("penyelesaian-keliling")
     divPenyelesaianKeliling.classList.add("hidden")
     
-    // mengonsongkan nilai input
+    // mengosongkan nilai input
     const input = document.getElementById("input-sisi-keliling")
     input.value = ""
 }
